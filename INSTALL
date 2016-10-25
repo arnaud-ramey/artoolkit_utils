@@ -3,9 +3,10 @@ ________________________________________________________________________________
 Dependencies
 ________________________________________________________________________________
 You need the following libraries before compiling :
- * cmake  ( sudo apt-get install cmake ),
- * curl   ( sudo apt-get install curl ),
- * OpenCV ( sudo apt-get install libopencv-dev )
+ * Boost system  ( sudo apt-get install libboost-system-dev ),
+ * cmake         ( sudo apt-get install cmake ),
+ * curl          ( sudo apt-get install curl ),
+ * OpenCV        ( sudo apt-get install libopencv-dev )
 ________________________________________________________________________________
 
 How to build the program
