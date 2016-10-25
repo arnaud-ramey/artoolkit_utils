@@ -2,6 +2,8 @@
                   |   artoolkit_utils    |
                   +----------------------+
 
+[![Build Status](https://travis-ci.org/arnaud-ramey/artoolkit_utils.svg)](https://travis-ci.org/arnaud-ramey/artoolkit_utils)
+
 ARToolKit ( http://www.hitl.washington.edu/artoolkit/ ) is a computer tracking
 library for creation of augmented reality applications that overlay virtual
 imagery on the real world.
